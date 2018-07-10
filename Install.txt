@@ -1,0 +1,8 @@
+Install go
+apt install golang upx-ucl -y
+go get github.com/CaliDog/certstream-go
+go get github.com/Sirupsen/logrus
+go get github.com/Workiva/go-datastructures/queue
+go get github.com/joeguo/tldextract
+go get github.com/spf13/cobra
+go get golang.org/x/net/idna
